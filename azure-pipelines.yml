@@ -19,7 +19,7 @@ steps:
     resourceGroupName: 'SATO'
     location: 'Japan East'
     templateLocation: 'URL of the file'
-    csmFileLink: 'https://raw.githubusercontent.com/Sola-Sato/AzureRmPipeline-repo/main/CreateWebApp/azuredeploy.json?token=GHSAT0AAAAAABW6MBDSYW5J63CGNCRPMIIMYXI4P3A'
+    csmFileLink: 'https://raw.githubusercontent.com/Sola-Sato/AzureRmPipeline-repo/main/CreateWebApp/azuredeploy.json?token=GHSAT0AAAAAABW6MBDSD5IAKS42GZRCSSXSYXI43JA'
     overrideParameters: '-projectName rprogram'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
